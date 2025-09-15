@@ -1,6 +1,8 @@
 /******************************************************************************
 SCOTT SCHMIDT  |   Java to C++  | Student.Java
 -------------------------------------------
+Terminal Output ---> Success (see below)
+
 Last login: Mon Sep 15 07:03:23 on ttys002
 scottschmidt@Scotts-MacBook-Pro ~ % /Users/scottschmidt/Desktop/main ; exit;
 Name: Rishi Saripalle - has student id: rsaripa, email: rishi.saripalle@ilstu.edu, and final GPA of: 4
